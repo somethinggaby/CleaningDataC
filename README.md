@@ -10,3 +10,6 @@ the script will create a tidy data set containing the means of all the columns p
 ##Data 
 The origonal data can be found at 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+##CodeBook
+The CodeBook.md file explains the transformations performed and the resulting data and variables.
